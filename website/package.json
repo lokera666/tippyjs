@@ -64,7 +64,7 @@
     "@mdx-js/loader": "^1.5.5",
     "eslint-config-react-app": "^5.0.2",
     "gh-pages": "^2.1.1",
-    "loader-utils": "^1.2.3",
+    "loader-utils": "^1.4.2",
     "prettier": "github:prettier/prettier",
     "rimraf": "^3.0.2"
   },
